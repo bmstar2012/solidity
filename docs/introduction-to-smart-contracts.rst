@@ -567,7 +567,7 @@ by changing some internal state which causes all functions to revert. This
 makes it impossible to use the contract, as it returns Ether immediately.
 
 
-.. index:: ! precompiled contracts, precompiles, contract;precompiled
+.. index:: ! precompiled contracts, ! precompiles, ! contract;precompiled
 
 .. _precompiledContracts:
 
